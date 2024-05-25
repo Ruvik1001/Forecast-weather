@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Weather App</string>
+    <string name="denied_message">Дайте приложению необходимые разрешения для продолжения.
+        Если это не сработает, вам придется сделать это вручную в настройках.</string>
+    <string name="rationale_message">Чтобы использовать функции этого приложения,
+        вам необходимо дать нам разрешение.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
